@@ -17,33 +17,34 @@ Prospective students are expected to have taken an ICM (Introduction to Computat
 
 ### OUTLINE:
 - Week 1 Introduction
-  - Intro to ML
-  - Deep learning
-  - Neural networks
+    - Intro to ML
+    - Deep learning
+    - Neural networks
 - Week 2 ML for designers
-  - Unity, figma, photoshop
-  - Runway design plugins
+    - Unity, figma, photoshop
+    - Runway design plugins
 - Week 3 Image generation
-  - bigGAN
-  - StyleGAN
-  - How to train your own styleGAN
-- Week 4 Image-to-Image Translation
-  - Fast style transfer
-  - How to train your own fast style transfer
-  - pix2pix
-  - How to train your own pix2pix
+    - GAN
+    - bigGAN
+    - StyleGAN
+    - How to train your own styleGAN
+- Week 4 Media Translation
+    - Image-to-Image Translation: Style transfer models, pix2pix, cycleGAN
+    - Text2Image Translation: im2txt, attnGAN
 - Week 5 Text Generation
-  - LSTM
-  - GPT-2
+    - LSTM
+    - GPT-2
+    - Training GPT-2
 - Week 6 Semantic Image Segmentation/Synthesis
-  - SPADE-COCO
-  - DeepLab
+    - SPADE-COCO
+    - DeepLab
 - Week 7 Final project presentation
 
 ### Links:
 - Runway ML: http://runwayml.com
 - GAN Lab: https://poloclub.github.io/ganlab/
 - NIPS 2016 Tutorial: Generative Adversarial Networks: [https://arxiv.org/pdf/1701.00160.pdf,](https://arxiv.org/pdf/1701.00160.pdf) http://www.iangoodfellow.com/slides/2016-12-04-NIPS.pdf
+- Runway + p5.js: https://github.com/runwayml/p5js
 
 ### A list of ML models we will be covering:
 
