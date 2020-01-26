@@ -16,7 +16,7 @@ Students will learn to use pre-trained models, and train their own models in the
 Prospective students are expected to have taken an ICM (Introduction to Computational Media) course, or have equivalent programming experience with Python or JavaScript.
 
 ### OUTLINE:
-- Week 1 Introduction
+- [Week 1 Introduction](https://github.com/runwayml/Intro-Synthetic-Media/tree/master/Intro)
     - Intro to ML
     - Deep learning
     - Neural networks
