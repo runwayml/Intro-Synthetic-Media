@@ -49,24 +49,24 @@ Prospective students are expected to have taken an ICM (Introduction to Computat
 ### A list of ML models we will be covering:
 
 #### Image generation:
-StylanGAN: https://github.com/NVlabs/stylegan
-BigGAN: https://github.com/ajbrock/BigGAN-PyTorch
+- StylanGAN: https://github.com/NVlabs/stylegan
+- BigGAN: https://github.com/ajbrock/BigGAN-PyTorch
 
 #### Style Transfer
-Fast-style-transfer: https://github.com/lengstrom/fast-style-transfer
-Arbitrary-Image-Stylization: https://github.com/tensorflow/magenta/tree/master/magenta/models/arbitrary_image_stylization
+- Fast-style-transfer: https://github.com/lengstrom/fast-style-transfer
+- Arbitrary-Image-Stylization: https://github.com/tensorflow/magenta/tree/master/magenta/models/arbitrary_image_stylization
 
 #### Semantic Image Segmentation/Synthesis
-Deeplab: https://github.com/tensorflow/models/tree/master/research/deeplab
-Sapde-coco: https://github.com/NVlabs/SPADE
+- Deeplab: https://github.com/tensorflow/models/tree/master/research/deeplab
+- Sapde-coco: https://github.com/NVlabs/SPADE
 
 #### Image-to-Image Translation:
-pix2pix: https://phillipi.github.io/pix2pix/
-pix2pixHD: https://github.com/NVIDIA/pix2pixHD
+- pix2pix: https://phillipi.github.io/pix2pix/
+- pix2pixHD: https://github.com/NVIDIA/pix2pixHD
 
 #### Text Generation
-LSTM
-gpt-2: https://github.com/openai/gpt-2
+- LSTM
+- gpt-2: https://github.com/openai/gpt-2
 
 
 ## EQUIPMENT
