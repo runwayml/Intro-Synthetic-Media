@@ -20,22 +20,22 @@ Prospective students are expected to have taken an ICM (Introduction to Computat
     - Intro to ML
     - Deep learning
     - Neural networks
-- Week 2 ML for designers
+- [Week 2 ML for designers](https://github.com/runwayml/Intro-Synthetic-Media/tree/master/Design)
     - Unity, figma, photoshop
     - Runway design plugins
-- Week 3 Image generation
+- [Week 3 Image generation](https://github.com/runwayml/Intro-Synthetic-Media/tree/master/ImgGeneration)
     - GAN
     - bigGAN
     - StyleGAN
     - How to train your own styleGAN
-- Week 4 Media Translation
+- [Week 4 Media Translation](https://github.com/runwayml/Intro-Synthetic-Media/tree/master/Translation)
     - Image-to-Image Translation: Style transfer models, pix2pix, cycleGAN
     - Text2Image Translation: im2txt, attnGAN
-- Week 5 Text Generation
+- [Week 5 Text Generation](https://github.com/runwayml/Intro-Synthetic-Media/tree/master/Text)
     - LSTM
     - GPT-2
     - Training GPT-2
-- Week 6 Semantic Image Segmentation/Synthesis
+- [Week 6 Semantic Image Segmentation/Synthesis](https://github.com/runwayml/Intro-Synthetic-Media/tree/master/ImgSegmentation)
     - SPADE-COCO
     - DeepLab
 - Week 7 Final project presentation
