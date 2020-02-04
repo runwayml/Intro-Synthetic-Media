@@ -4,7 +4,6 @@
 
 ## Coding session:
 - Ruwnay for Photoshop
-- Runway for Unity
 
 ## [Homework](https://github.com/runwayml/Intro-Synthetic-Media/wiki/Week-2-2020-Spring)
 
