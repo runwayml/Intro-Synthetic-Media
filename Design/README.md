@@ -3,7 +3,8 @@
 ## Presentation: [Slides]()
 
 ## Coding session:
-- Ruwnay for Photoshop
+- Install Runway Photoshop plugin
+- Send model input and get output in Photoshop
 
 ## [Homework](https://github.com/runwayml/Intro-Synthetic-Media/wiki/Week-2-2020-Spring)
 
