@@ -3,7 +3,7 @@
 ## Presentation: [Slides]()
 
 ## Coding session:
-- Install Runway Photoshop plugin
+- Install Runway Photoshop plugin (Requires Adobe Photoshop CC 2019 +)
 - Send model input and get output in Photoshop
 
 ## [Homework](https://github.com/runwayml/Intro-Synthetic-Media/wiki/Week-2-2020-Spring)
