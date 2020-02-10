@@ -1,6 +1,6 @@
 # Week 2 Machine Learning for Designers
 
-## Presentation: [Slides]()
+## Presentation: [Slides](https://drive.google.com/drive/folders/16OnRhVB5lOjWPf4RUQYS8vsv2vEyj53m?usp=sharing)
 
 ## Coding session:
 - Install Runway Photoshop plugin (Requires Adobe Photoshop CC 2019 +)
