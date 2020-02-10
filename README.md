@@ -28,13 +28,13 @@ Prospective students are expected to have taken an ICM (Introduction to Computat
     - bigGAN
     - StyleGAN
     - How to train your own styleGAN
-- [Week 4 Media Translation](https://github.com/runwayml/Intro-Synthetic-Media/tree/master/Translation)
-    - Image-to-Image Translation: Style transfer models, pix2pix, cycleGAN
-    - Text2Image Translation: im2txt, attnGAN
-- [Week 5 Text Generation](https://github.com/runwayml/Intro-Synthetic-Media/tree/master/Text)
+- [Week 4 Text Generation](https://github.com/runwayml/Intro-Synthetic-Media/tree/master/Text)
     - LSTM
     - GPT-2
     - Training GPT-2
+- [Week 5 Media Translation](https://github.com/runwayml/Intro-Synthetic-Media/tree/master/Translation)
+    - Image-to-Image Translation: Style transfer models, pix2pix, cycleGAN
+    - Text2Image Translation: im2txt, attnGAN
 - [Week 6 Semantic Image Segmentation/Synthesis](https://github.com/runwayml/Intro-Synthetic-Media/tree/master/ImgSegmentation)
     - SPADE-COCO
     - DeepLab
