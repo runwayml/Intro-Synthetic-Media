@@ -17,7 +17,7 @@
 
 ### Resources
 * [Better Language Models
-and Their Implications: GPT-2 Blog](https://openai.com/blog/better-language-models/) from Two Minute Papers
+and Their Implications: GPT-2 Blog](https://openai.com/blog/better-language-models/)
 * [Talk to Transformer: GPT-2 Demo](https://talktotransformer.com/)
 * [CharRNN from ml5js](https://learn.ml5js.org/docs/#/reference/charrnn)
 
