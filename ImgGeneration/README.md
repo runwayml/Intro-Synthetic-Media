@@ -16,6 +16,12 @@
 * [The Coding Train Coding Challenge #150: AI Rainbows with RunwayML and p5.js](https://thecodingtrain.com/CodingChallenges/150-runway-rainbows.html)
 * [Explained: A Style-Based Generator Architecture for GANs - Generating and Tuning Realistic Artificial Faces](https://heartbeat.fritz.ai/animated-stylegan-image-transitions-with-runwayml-57a2e20db80f)
 
+### Datasets
+- [Illustrations of the Natural World](https://www.flickr.com/search/?user_id=61021753%40N02&view_all=1&text=apple), search for different words
+- Flickr API: https://github.com/antiboredom/flickr-scrape. You can get an API key here: https://www.flickr.com/services/api/misc.api_keys.html
+- Google maps
+- [Noun projects](https://thenounproject.com/)
+
 ### Resources
 * [StyleGAN: None of These Faces Are Real](https://youtu.be/-cOYwZ2XcAc) from Two Minute Papers
 * [Explained: A Style-Based Generator Architecture for GANs - Generating and Tuning Realistic Artificial Faces](https://towardsdatascience.com/explained-a-style-based-generator-architecture-for-gans-generating-and-tuning-realistic-6cb2be0f431)
