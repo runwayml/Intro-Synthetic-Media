@@ -1,8 +1,9 @@
 # Week 3 Image Generation
 
 ## Presentation:
-[Slides 1](https://drive.google.com/file/d/1109UiwxePuSxarnMJL9I9g6RRRl8e1A1/view?usp=sharing)
-[Slides 2](https://docs.google.com/presentation/d/10uW45-QlCXSjWSs8BG1FM3f2G42uinD4qEbk92e1HxA/edit?usp=sharing)
+[Slides](https://drive.google.com/file/d/1109UiwxePuSxarnMJL9I9g6RRRl8e1A1/view?usp=sharing)
+
+Additional [Slides](https://docs.google.com/presentation/d/10uW45-QlCXSjWSs8BG1FM3f2G42uinD4qEbk92e1HxA/edit?usp=sharing)
 - Latent space
 - GAN
 - StyleGAN
