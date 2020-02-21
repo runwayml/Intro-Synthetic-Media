@@ -22,5 +22,6 @@
 and Their Implications: GPT-2 Blog](https://openai.com/blog/better-language-models/)
 * [Talk to Transformer: GPT-2 Demo](https://talktotransformer.com/)
 * [CharRNN from ml5js](https://learn.ml5js.org/docs/#/reference/charrnn)
+* [HUgging face transformers](https://github.com/huggingface/transformers)
 
 ### [Homework](https://github.com/runwayml/Intro-Synthetic-Media/wiki/Week-4-2020-Spring)
