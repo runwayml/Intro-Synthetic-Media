@@ -1,6 +1,6 @@
 # Week 4 Text Generation
 
-## Presentation: [Slides]()
+## Presentation: [Slides](https://drive.google.com/file/d/17Vw8eAq8rg1n-sYTli3BZ-YW8-kbPEYh/view?usp=sharing)
 - LSTM/CharRNN
 - GPT-2
 - How to train a GPT-2 with our own dataset
