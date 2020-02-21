@@ -10,6 +10,9 @@
 - Training GPT-2 in Runway
 - [Training GPT-2 with Colab](https://colab.research.google.com/drive/16i4xS_wCDXpVR0x1sYXPtptyXwe_5tDK#scrollTo=pEn_ihcGI00T) for free, expires in 12 hours
 
+### Where to find data
+- [Free eBooks - Project Gutenberg](https://www.gutenberg.org/)
+
 ### Code Examples
 * [CharRNN_Interactive](https://yining1023.github.io/machine-learning-for-the-web/week12-rnn/CharRNN_Interactive)
 * [CharRNN_Text](https://yining1023.github.io/machine-learning-for-the-web/week12-rnn/CharRNN_Text)
