@@ -17,7 +17,8 @@
 * [CharRNN_Interactive](https://yining1023.github.io/machine-learning-for-the-web/week12-rnn/CharRNN_Interactive)
 * [CharRNN_Text](https://yining1023.github.io/machine-learning-for-the-web/week12-rnn/CharRNN_Text)
 * [CharRNN_Text_Stateful](https://yining1023.github.io/machine-learning-for-the-web/week12-rnn/CharRNN_Text_Stateful)
-* [GPT2](https://yining1023.github.io/machine-learning-for-the-web/week7-runway/GPT2/) with Runway and p5js, [See instruction](https://github.com/runwayml/Intro-Synthetic-Media/tree/master/Text/GPT2)
+* [GPT2 in the browser](https://yining1023.github.io/machine-learning-for-the-web/week7-runway/GPT2/) with Runway and p5js, [See instruction](https://github.com/runwayml/Intro-Synthetic-Media/tree/master/Text/GPT2)
+* [GPT-2 in p5 web editor](https://editor.p5js.org/yining/sketches/o6nhfMfu), need to run Runway-GPT-2 model at `localhost:8000`
 * [ml5.js word2vec](https://editor.p5js.org/ml5/sketches/Word2Vec_Interactive), [doc](https://learn.ml5js.org/docs/#/reference/word2vec)
 
 ### Resources
