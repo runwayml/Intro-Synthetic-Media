@@ -25,6 +25,7 @@ Additional [Slides](https://docs.google.com/presentation/d/10uW45-QlCXSjWSs8BG1F
 - Flickr API: https://github.com/antiboredom/flickr-scrape. You can get an API key here: https://www.flickr.com/services/api/misc.api_keys.html
 - Google maps
 - [Noun projects](https://thenounproject.com/)
+- [Stanford Dogs Dataset](http://vision.stanford.edu/aditya86/ImageNetDogs/)
 
 ### Resources
 * [StyleGAN: None of These Faces Are Real](https://youtu.be/-cOYwZ2XcAc) from Two Minute Papers
