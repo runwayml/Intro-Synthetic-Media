@@ -8,7 +8,8 @@
 ### Coding sessions
 - CharRNN with ml5js
 - Training GPT-2 in Runway
-- [Training GPT-2 with Colab](https://colab.research.google.com/drive/16i4xS_wCDXpVR0x1sYXPtptyXwe_5tDK#scrollTo=pEn_ihcGI00T) for free, expires in 12 hours
+- [Training GPT-2 with Colab](https://colab.research.google.com/drive/1VLG8e7YSEwypxU-noRNhsv5dW4NfTGce), expires in 12 hours, remember to download the model before the session expires.
+- [GPT-2 playground with Google Colab](https://colab.research.google.com/github/ilopezfr/gpt-2/blob/master/gpt-2-playground_.ipynb)
 
 ### Where to find data
 - [Free eBooks - Project Gutenberg](https://www.gutenberg.org/)
