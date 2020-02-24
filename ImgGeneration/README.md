@@ -17,6 +17,7 @@ Additional [Slides](https://docs.google.com/presentation/d/10uW45-QlCXSjWSs8BG1F
 * [Explore StyleGAN features](https://editor.p5js.org/yining/sketches/lJUZecC1)
 
 ### Videos/Tutorials
+* [Train a model in Runway Tutorial](https://learn.runwayml.com/#/create/train-models)
 * [The Coding Train Coding Challenge #150: AI Rainbows with RunwayML and p5.js](https://thecodingtrain.com/CodingChallenges/150-runway-rainbows.html)
 * [Explained: A Style-Based Generator Architecture for GANs - Generating and Tuning Realistic Artificial Faces](https://heartbeat.fritz.ai/animated-stylegan-image-transitions-with-runwayml-57a2e20db80f)
 
