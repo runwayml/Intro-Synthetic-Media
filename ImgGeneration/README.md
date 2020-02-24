@@ -26,6 +26,7 @@ Additional [Slides](https://docs.google.com/presentation/d/10uW45-QlCXSjWSs8BG1F
 - Google maps
 - [Noun projects](https://thenounproject.com/)
 - [Stanford Dogs Dataset](http://vision.stanford.edu/aditya86/ImageNetDogs/)
+- [Chrome extension that downloads all images in a web page](https://chrome.google.com/webstore/detail/download-all-images/ifipmflagepipjokmbdecpmjbibjnakm/related)
 
 ### Resources
 * [StyleGAN: None of These Faces Are Real](https://youtu.be/-cOYwZ2XcAc) from Two Minute Papers
