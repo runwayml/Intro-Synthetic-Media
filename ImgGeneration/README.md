@@ -38,5 +38,6 @@ Additional [Slides](https://docs.google.com/presentation/d/10uW45-QlCXSjWSs8BG1F
 * [GAN Lab](https://poloclub.github.io/ganlab/) by Minsuk Kahng, Nikhil Thorat, Polo Chau, Fernanda Viégas, and Martin Wattenberg
 * [Using AI to Produce “Impossible” Tulips: Anna Ridler uses AI to bring “tulipmania” into the future](https://hyperallergic.com/487261/anna-ridler-tulipmania/) by Elain Ayers
 * Mario Klingemann’s Neurography: [Cameraless Photography with Neural Networks](https://www.youtube.com/watch?v=21W5-q5YYjw)
+* [confusing coleopterists / 🤔🐞](https://www.cunicode.com/works/confusing-coleopterists/#StyleGAN)
 
 ### [Homework](https://github.com/runwayml/Intro-Synthetic-Media/wiki/Week-3-2020-Spring)
