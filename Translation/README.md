@@ -13,7 +13,33 @@
   - Text to Image(AttnGAN)
   - Image to Text
 
-### Code Examples
+### Coding Session
+#### Get started
+To run each examples, open your terminal, type in the following commands:
+```
+$ git clone https://github.com/yining1023/machine-learning-for-the-web.git
+$ cd Intro-Synthetic-Media
+$ python -m SimpleHTTPServer 8001    # $ python3 -m http.server 8001 (if you are using python 3)
+```
+Go to `localhost:8001` in your browser, you will see a directory list like this:
+```
+Directory listing for /
+.DS_Store
+.git/
+.gitignore
+Design/
+ImgGeneration/
+ImgSegmentation/
+Intro/
+LICENSE
+README.md
+Text/
+Translation/
+```
+
+Click into each folder, you will see the example for each folder.
+
+### Demos
 - [Fast style transfer with ml5js](https://runwayml.github.io/Intro-Synthetic-Media/Translation/styleTransfer-ml5/StyleTransfer_Video/)
 - [Pix2pix Edges to pikachu with ml5js](https://runwayml.github.io/Intro-Synthetic-Media/Translation/styleTransfer-ml5/pix2pix-ml5)
 
