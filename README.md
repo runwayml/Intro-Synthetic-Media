@@ -13,6 +13,8 @@ Generative machine learning models open new possibilities for creating images, v
 
 Students will learn to use pre-trained models, and train their own models in the cloud using Runway. For each week, we will discuss the history, theory, datasets, application of the machine learning models, and build experiments based on the model. In addition to Runway, we will be using JavaScript libraries like the p5.js, ml5.js, and TensorFlow.js, and applications like Photoshop, Unity and Figma.
 
+This course is aimed at people working in creative disciplines who wish to learn about machine intelligence and how to apply it in their own fields. It is *not* aimed at scientists or engineers who are seeking a rigorous technical course on machine learning. This course is more practical than it is theoretical; we are interested less in proving theorems and equations, and more into hacking existing tools for making machines that do interesting things.
+
 Prospective students are expected to have taken an ICM (Introduction to Computational Media) course, or have equivalent programming experience with Python or JavaScript.
 
 ### OUTLINE:
