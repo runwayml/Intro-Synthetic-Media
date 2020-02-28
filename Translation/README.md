@@ -52,8 +52,9 @@ The following examples requires running the model in Runway at `localhost:8000`
 
 ### Resources
 * [ml5js Style Transfer](https://learn.ml5js.org/docs/#/reference/style-transfer)
-* [Training your own style transfer with Spell](https://github.com/yining1023/styleTransfer_spell), [Video](https://www.youtube.com/watch?v=gye9hSIrRWI)
+* [Train your own style transfer with Spell](https://github.com/yining1023/styleTransfer_spell), [Video](https://www.youtube.com/watch?v=gye9hSIrRWI)
 * [ml5js Pix2pix](https://learn.ml5js.org/docs/#/reference/pix2pix)
+* [Train your own pix2pix](https://github.com/yining1023/pix2pix_tensorflowjs_lite), [pix2pix on Spell](https://github.com/yining1023/pix2pix_spell)
 * [FastPhotoStyle](https://github.com/NVIDIA/FastPhotoStyle)
 * [PhotoSketch](https://perso.telecom-paristech.fr/boubek/papers/PhotoSketch/)
 * [CycleGAN](https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix)
