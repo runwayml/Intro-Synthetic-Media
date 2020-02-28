@@ -14,8 +14,8 @@
   - Image to Text
 
 ### Code Examples
-- Fast style transfer with ml5js
-- Pix2pix Edges to pikachu with ml5js
+- [Fast style transfer with ml5js](https://runwayml.github.io/Intro-Synthetic-Media/Translation/styleTransfer-ml5/StyleTransfer_Video/)
+- [Pix2pix Edges to pikachu with ml5js](https://runwayml.github.io/Intro-Synthetic-Media/Translation/styleTransfer-ml5/pix2pix-ml5)
 - Photo Styles Tansfer with p5js and Runway
 - Photo Sketch with p5js and Runway
 - CycleGAN with p5js and Runway
