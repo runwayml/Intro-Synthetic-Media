@@ -24,6 +24,7 @@
 
 ### Resources
 * [ml5js Style Transfer](https://learn.ml5js.org/docs/#/reference/style-transfer)
+* [Training your own style transfer with Spell](https://github.com/yining1023/styleTransfer_spell), [Video](https://www.youtube.com/watch?v=gye9hSIrRWI)
 * [ml5js Pix2pix](https://learn.ml5js.org/docs/#/reference/pix2pix)
 * [FastPhotoStyle](https://github.com/NVIDIA/FastPhotoStyle)
 * [PhotoSketch](https://perso.telecom-paristech.fr/boubek/papers/PhotoSketch/)
@@ -31,4 +32,8 @@
 * [Text to Image(AttnGAN)](https://github.com/taoxugit/AttnGAN)
 * [im2txt](https://github.com/tensorflow/models/tree/master/research/im2txt)
 
-### [Homework](https://github.com/runwayml/Intro-Synthetic-Media/wiki/Week-5-2020-Spring)
+### Homework
+- Keep working on the final project
+  - Make the idea more clear, find a good scope for your project
+  - Make experiments on the idea, and document your progress with images/videos
+  - Ask for help from teachers/residents/classmates, if you have any roadblocks for the projects
