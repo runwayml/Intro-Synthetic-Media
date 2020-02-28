@@ -17,7 +17,7 @@
 #### Get started
 To run each examples, open your terminal, type in the following commands:
 ```
-$ git clone https://github.com/yining1023/machine-learning-for-the-web.git
+$ git clone git@github.com:runwayml/Intro-Synthetic-Media.git
 $ cd Intro-Synthetic-Media
 $ python -m SimpleHTTPServer 8001    # $ python3 -m http.server 8001 (if you are using python 3)
 ```
