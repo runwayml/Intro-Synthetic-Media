@@ -46,7 +46,7 @@ Click into each folder, you will see the example for each folder.
 The following examples requires running the model in Runway at `localhost:8000`
 - [Photo Styles Tansfer with p5js and Runway](https://runwayml.github.io/Intro-Synthetic-Media/Translation/photostylestansfer/)
 - [Photo Sketch with p5js and Runway](https://runwayml.github.io/Intro-Synthetic-Media/Translation/PhotoSketch)
-- [CycleGAN with p5js and Runway](https://runwayml.github.io/Intro-Synthetic-Media/Translation/cyclegan)
+- [CycleGAN with p5js and Runway](https://runwayml.github.io/Intro-Synthetic-Media/Translation/CycleGAN)
 - [Text to Image with p5js and Runway](https://runwayml.github.io/Intro-Synthetic-Media/Translation/Text2Image)
 - [Image to Text with p5js and Runway](https://runwayml.github.io/Intro-Synthetic-Media/Translation/im2txt/)
 
