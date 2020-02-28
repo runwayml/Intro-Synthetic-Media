@@ -41,7 +41,7 @@ Click into each folder, you will see the example for each folder.
 
 ### Demos
 - [Fast style transfer with ml5js](https://runwayml.github.io/Intro-Synthetic-Media/Translation/styleTransfer-ml5/StyleTransfer_Video/)
-- [Pix2pix Edges to pikachu with ml5js](https://runwayml.github.io/Intro-Synthetic-Media/Translation/styleTransfer-ml5/pix2pix-ml5)
+- [Pix2pix Edges to pikachu with ml5js](https://runwayml.github.io/Intro-Synthetic-Media/Translation/pix2pix-ml5)
 
 The following examples requires running the model in Runway at `localhost:8000`
 - [Photo Styles Tansfer with p5js and Runway](https://runwayml.github.io/Intro-Synthetic-Media/Translation/photostylestansfer/)
