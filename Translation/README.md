@@ -16,11 +16,13 @@
 ### Code Examples
 - [Fast style transfer with ml5js](https://runwayml.github.io/Intro-Synthetic-Media/Translation/styleTransfer-ml5/StyleTransfer_Video/)
 - [Pix2pix Edges to pikachu with ml5js](https://runwayml.github.io/Intro-Synthetic-Media/Translation/styleTransfer-ml5/pix2pix-ml5)
-- Photo Styles Tansfer with p5js and Runway
-- Photo Sketch with p5js and Runway
-- CycleGAN with p5js and Runway
-- Text to Image with p5js and Runway
-- Image to Text with p5js and Runway
+
+The following examples requires running the model in Runway at `localhost:8000`
+- [Photo Styles Tansfer with p5js and Runway](https://runwayml.github.io/Intro-Synthetic-Media/Translation/photostylestansfer/)
+- [Photo Sketch with p5js and Runway](https://runwayml.github.io/Intro-Synthetic-Media/Translation/PhotoSketch)
+- [CycleGAN with p5js and Runway](https://runwayml.github.io/Intro-Synthetic-Media/Translation/cyclegan)
+- [Text to Image with p5js and Runway](https://runwayml.github.io/Intro-Synthetic-Media/Translation/Text2Image)
+- [Image to Text with p5js and Runway](https://runwayml.github.io/Intro-Synthetic-Media/Translation/im2txt/)
 
 ### Resources
 * [ml5js Style Transfer](https://learn.ml5js.org/docs/#/reference/style-transfer)
