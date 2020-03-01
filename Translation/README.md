@@ -1,6 +1,6 @@
 # Week 5 Media Translation
 
-## Presentation: [Slides]()
+## Presentation: [Slides](https://drive.google.com/file/d/1GoChCMzgVu9WdHH4V7bo1so4epcJXNDB/view?usp=sharing)
 
 ### Media Translation
 - Image to Image
