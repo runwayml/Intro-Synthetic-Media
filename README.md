@@ -3,6 +3,7 @@
 - 7 weeks, 1/31/2020 - 3/13/2020, Friday 9 am - 11:30 am
 - 370 Jay Street, Room 407, ITP/NYU
 - [Office Hours](https://calendar.google.com/calendar/selfsched?sstoken=UUVtNWtYeW9BX3ZhfGRlZmF1bHR8NDIzN2VhZmY5OTQ4MTM2NTRmY2Q4ODQyY2Q3NDZmM2I)
+- [All class dates](https://itp.nyu.edu/registration/Schedule.php?year=2020&semester=Spring)
 
 ## COURSE DESCRIPTION
 
