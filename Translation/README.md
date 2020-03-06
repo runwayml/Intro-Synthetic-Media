@@ -9,6 +9,8 @@
   - Photo Styles Tansfer
   - Photo Sketch with p5js
   - CycleGAN
+  - CartoonGAN(Photo to cartoon)
+  - Few-Shot-Face-Translation-GAN
 - Image verses Text
   - Text to Image(AttnGAN)
   - Image to Text
