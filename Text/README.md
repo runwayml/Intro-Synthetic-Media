@@ -13,6 +13,7 @@
 
 ### Where to find data
 - [Free eBooks - Project Gutenberg](https://www.gutenberg.org/)
+- [All the news - Kaggle](https://www.kaggle.com/snapcrack/all-the-news)
 
 ### Code Examples
 * [CharRNN_Interactive](https://yining1023.github.io/machine-learning-for-the-web/week12-rnn/CharRNN_Interactive)
