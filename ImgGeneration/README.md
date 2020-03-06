@@ -28,6 +28,7 @@ Additional [Slides](https://docs.google.com/presentation/d/10uW45-QlCXSjWSs8BG1F
 - [Noun projects](https://thenounproject.com/)
 - [Stanford Dogs Dataset](http://vision.stanford.edu/aditya86/ImageNetDogs/)
 - [Chrome extension that downloads all images in a web page](https://chrome.google.com/webstore/detail/download-all-images/ifipmflagepipjokmbdecpmjbibjnakm/related)
+- [Smithsonian Releases 2.8 Million Images Into Public Domain](https://www.smithsonianmag.com/smithsonian-institution/smithsonian-releases-28-million-images-public-domain-180974263/)
 
 ### Resources
 * [StyleGAN: None of These Faces Are Real](https://youtu.be/-cOYwZ2XcAc) from Two Minute Papers
@@ -39,5 +40,11 @@ Additional [Slides](https://docs.google.com/presentation/d/10uW45-QlCXSjWSs8BG1F
 * [Using AI to Produce “Impossible” Tulips: Anna Ridler uses AI to bring “tulipmania” into the future](https://hyperallergic.com/487261/anna-ridler-tulipmania/) by Elain Ayers
 * Mario Klingemann’s Neurography: [Cameraless Photography with Neural Networks](https://www.youtube.com/watch?v=21W5-q5YYjw)
 * [confusing coleopterists / 🤔🐞](https://www.cunicode.com/works/confusing-coleopterists/#StyleGAN)
+
+### Projects
+* [Machine Learning and Logo Design: a practical approach](https://www.linkedin.com/pulse/machine-learning-logo-design-practical-approach-edoardo-santamato/)
+* [Machine Learning Font](http://www.machinelearningfont.com/)
+* [Stylegan trained on 6000 isometric procedural buildings](https://twitter.com/lasdairmott/status/1234756842166767616?s=20)
+
 
 ### [Homework](https://github.com/runwayml/Intro-Synthetic-Media/wiki/Week-3-2020-Spring)
