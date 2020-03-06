@@ -14,6 +14,9 @@
 - Face parser + SPADE FACE
 - First order motion
 
+### Exercise
+- Based on the models mentioned this week, and translation week, use your webcam or your photos as input to create a short video/gif/image.
+
 ### Resources / Projects
 * [Ellen's painting-landscapes-with-the-body workshop](https://github.com/ellennickles/painting-landscapes-with-the-body)
 * [AI brushes](https://nurecas.com/ai-brushes)
