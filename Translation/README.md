@@ -11,6 +11,7 @@
   - CycleGAN
   - CartoonGAN(Photo to cartoon)
   - Few-Shot-Face-Translation-GAN
+  - Densepose
 - Image verses Text
   - Text to Image(AttnGAN)
   - Image to Text
