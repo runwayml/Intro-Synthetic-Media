@@ -9,7 +9,7 @@
 - Image animation
   - [First Order Motion Model](https://github.com/AliaksandrSiarohin/first-order-model)
 
-### Coding Session
+### Playground
 - DeepLab + SPADE Landscapes
 - Face parser + SPADE FACE
 - First order motion
