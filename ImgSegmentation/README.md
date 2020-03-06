@@ -15,7 +15,7 @@
 - First order motion
 
 ### Exercise
-- Based on the models mentioned this week, and translation week, use your webcam or your photos as input to create a short video/gif/image.
+- Based on the models mentioned this week, and [Translation week](https://github.com/runwayml/Intro-Synthetic-Media/blob/master/Translation/README.md#media-translation), use your webcam or your photos as input to create a short video/gif/image.
 
 ### Resources / Projects
 * [Ellen's painting-landscapes-with-the-body workshop](https://github.com/ellennickles/painting-landscapes-with-the-body)
